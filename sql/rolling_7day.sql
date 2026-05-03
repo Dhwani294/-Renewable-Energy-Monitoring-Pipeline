@@ -1,0 +1,1 @@
+SELECT site_id, AVG(energy_output_kwh) OVER (PARTITION BY site_id ORDER BY timestamp ROWS BETWEEN 6 PRECEDING AND CURRENT ROW) FROM energy;

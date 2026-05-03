@@ -1,0 +1,1 @@
+SELECT site_id, COUNT(*) as anomalies FROM energy WHERE anomaly_flag=1 GROUP BY site_id ORDER BY anomalies DESC LIMIT 3;

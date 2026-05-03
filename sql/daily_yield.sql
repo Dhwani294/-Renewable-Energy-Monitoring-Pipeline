@@ -1,0 +1,1 @@
+SELECT site_id, DATE(timestamp) as date, SUM(energy_output_kwh) as total_energy FROM energy GROUP BY site_id, date;

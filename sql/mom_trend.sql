@@ -1,0 +1,1 @@
+SELECT site_id, MONTH(timestamp) as month, SUM(energy_output_kwh) FROM energy GROUP BY site_id, month;

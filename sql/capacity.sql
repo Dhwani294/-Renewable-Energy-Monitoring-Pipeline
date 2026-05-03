@@ -1,0 +1,1 @@
+SELECT site_id, AVG(energy_output_kwh)/500 as capacity_utilization FROM energy GROUP BY site_id;
