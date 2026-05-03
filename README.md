@@ -159,17 +159,6 @@ This project demonstrates **real-world data engineering skills**:
 
 ---
 
-## 📸 Screenshots (Add Here)
-
-> Add:
-
-* Kafka producer logs
-* Spark streaming output
-* Delta table preview
-* Power BI dashboard
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork, improve, and submit a PR.
