@@ -26,7 +26,6 @@ IoT Sensor Simulator (Python)
         Power BI Dashboard
 ```
 
----
 
 ## 🚀 Key Features
 
