@@ -10,6 +10,7 @@ This project replicates a real-world **IoT-based renewable energy monitoring sys
 
 ---
 
+
 ## 🏗️ Architecture
 
 ```
