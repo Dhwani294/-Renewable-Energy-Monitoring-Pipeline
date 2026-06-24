@@ -168,7 +168,6 @@ Contributions are welcome! Feel free to fork, improve, and submit a PR.
 ## ⭐ Final Note
 
 This project is designed to showcase **job-ready data engineering skills** and demonstrate how real-time data pipelines power modern renewable energy systems.
-
 ---
 
 🚀 *Built to learn. Designed to impress.*
